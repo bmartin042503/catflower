@@ -9,6 +9,10 @@
 </template>
 
 <style>
+body {
+  margin: 0;
+}
+
 #app {
   display: flex;
   justify-content: center;
