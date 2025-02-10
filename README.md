@@ -3,9 +3,9 @@
 <h1>catFlower</h1>
 </div>
 
-catFlower is a **free, open-source, 100% peer-to-peer based social network**, which relies on its users to store and forward information with no servers at all and the full functionality of social platforms.
+catFlower is a **free, open-source, 100% peer-to-peer based social network**. It relies on its users to store and forward information with no servers at all and the full functionality of social platforms.
 
-[Website](https://www.catflower.hu)
+<a href="https://www.catflower.hu" target="_blank">Website</a>
 
 It is currently under development.
 
