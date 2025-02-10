@@ -4,7 +4,7 @@
 
 <template>
   <main class="container">
-    <img src="/catflower-logo.svg"/>
+    <img src="/logo.svg"/>
   </main>
 </template>
 
